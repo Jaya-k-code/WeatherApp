@@ -1,0 +1,28 @@
+.text-muted{
+    text-align: center;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card h2{
+    text-align: center;
+}
+
+.card h7{
+    text-align: center;
+     font-weight: bolder;
+}
+
+p.card-text{
+    text-align: center;
+    font-weight: bolder;
+}
+
+div.card{
+    width:200px;
+    height:400px;
+    margin: 0.5rem;
+  
+}

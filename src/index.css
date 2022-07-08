@@ -5,9 +5,19 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:steelblue;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+ul.header li {display: inline;list-style-type: none;margin: 0;}
+ul.header {background-color: #111;padding: 0;}
+ul.header li a {color: #FFF;font-weight: bold;text-decoration: none;padding: 20px;display: inline-block;}
+
+h1{
+  align-items: center;
+}
+
